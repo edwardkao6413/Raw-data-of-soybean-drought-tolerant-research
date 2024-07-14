@@ -1,0 +1,3 @@
+1. Zhou2022_iwgd
+data types: Organized gene data ; 
+Source of Article: Proteomic Investigation of Molecular Mechanisms in Response to PEG-Induced Drought Stress in Soybean Roots
