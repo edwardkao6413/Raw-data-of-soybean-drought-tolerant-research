@@ -1,1 +1,1 @@
-
+In current research, the gene frequency is the results of Non-parameter Random Forest algorithm. 1,000 bootstraps were performed, and 10 times permutation were conducted among each round of bootstrap.
