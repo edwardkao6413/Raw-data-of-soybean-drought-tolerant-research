@@ -1,5 +1,3 @@
-Raw data storage place for research titled "Unveiling insights into drought-tolerant responses in soybean: a data-driven pipeline for feature engineering in biomarker discovery".
-
 In each folder of data platform, the PlatformName_dp.xlsx is the file that mainly incorporates non-omics data.
 
 The files in current directory are the raw data points in this research. The corresponding files of raw data points were classified into different data platform based on the molecular techniques that the corresponding research incoporated.
