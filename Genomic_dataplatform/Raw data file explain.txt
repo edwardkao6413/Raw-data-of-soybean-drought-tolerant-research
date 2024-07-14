@@ -1,3 +1,0 @@
-1. GWAS whole genome data_v2: 
-data types: Raw SNPs data ; 
-Source of Article: Genetic control of tolerance to drought stress in soybean
